@@ -1,3 +1,13 @@
+
+# 인덱스 트리라고도 하고, 세그먼트 트리라고도 한다 
+# 개념은 아래의 유튜브 영상 
+# https://youtu.be/1d9sqmuLy-o?si=tfRyxeagU9hV02sH
+# 아래는 코드적으로 설명을 잘 해놓은 사이트 
+# https://www.acmicpc.net/blog/view/9
+# https://book.acmicpc.net/ds/segment-tree
+
+
+
 # 0. 입력받기
 import sys
 input = sys.stdin.readline
