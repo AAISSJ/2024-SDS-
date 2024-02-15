@@ -1,3 +1,6 @@
+# 이 문제는 세 가지 방법으로 풀 수 있다 
+# 1. two pointer, 2. binary search, 3. hash 
+# 맨 처음에 two pointer로 시도해본 코드 다시 도전해보자
 
 T = int(input())
 n = int(input())
